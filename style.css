@@ -1,0 +1,16 @@
+body {
+    background-image: url(plano_fundo.jpg);
+    background-image: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 0%;
+}
